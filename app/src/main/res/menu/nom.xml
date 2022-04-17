@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/menu1"
+    android:title="SubhanAllah wa biHamdihi">
+</item>
+
+    <item
+        android:id="@+id/menu2"
+        android:title="SubhanAllah">
+    </item>
+
+
+    <item
+        android:id="@+id/menu3"
+        android:title="Subhaan-Allahi wa bihamdihi">
+    </item>
+
+    <item
+        android:id="@+id/menu4"
+        android:title="Hasbunallahu Wa Ni'mal Wakeel">
+    </item>
+
+    <item
+        android:id="@+id/menu5"
+        android:title="la ilaha illa'llah">
+    </item>
+
+    <item
+        android:id="@+id/menu6"
+        android:title="Astaghfirullah">
+    </item>
+
+    <item
+        android:id="@+id/menu7"
+        android:title="Allah-o-Akbar">
+    </item>
+
+    <item
+        android:id="@+id/menu8"
+        android:title="Alhamdulillah">
+    </item>
+
+    <item
+        android:id="@+id/menu9"
+        android:title="Ya-Fattahu">
+    </item>
+
+    <item
+        android:id="@+id/menu10"
+        android:title="Al-Basit">
+    </item>
+
+    <item
+        android:id="@+id/menu11"
+        android:title="Al-Wahhab">
+    </item>
+
+    <item
+        android:id="@+id/menu12"
+        android:title="Ya-Latifu">
+    </item>
+</menu>
